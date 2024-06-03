@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The AI-powered health advisory system is designed to provide medical guidance through conversational interfaces. By leveraging advanced AI models and natural language processing technologies, the system facilitates interactive and informative communication between users and virtual health advisors.
+The AI-powered health advisory system is designed to provide medical guidance through conversational interfaces. The system facilitates interactive and informative communication between users and virtual health advisors by leveraging advanced AI models and natural language processing technologies.
 
 ## Features
 
@@ -29,7 +29,7 @@ The AI-powered health advisory system is designed to provide medical guidance th
 ## Datasets
 
 - **ChatGPT GenMedGPT-5k**: Synthetic dataset containing 5,000 generated conversations between patients and physicians.
-- **HealthCareMagic.com**: Real-world dataset with 100,000 authentic conversations between patients and doctors. Download from from HealthCareMagic.com [HealthCareMagic-100k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing) and add it to the data folder
+- **HealthCareMagic.com**: Real-world dataset with 100,000 authentic conversations between patients and doctors. Download from HealthCareMagic.com [HealthCareMagic-100k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing) and add it to the data folder
 - **Format**: JSON.
 
 ## System Architecture
